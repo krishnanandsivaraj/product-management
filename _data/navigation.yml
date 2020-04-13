@@ -1,9 +1,9 @@
 links:
   - title: Products
-    url: /
+    url: /product-management/
   - title: Startups
-    url: /about
+    url: /product-management/about
   - title: Search
-    url: /search
+    url: /product-management/search
   - title: Lessions
-    url: /lessons
+    url: /product-management/lessons
