@@ -1,9 +1,9 @@
 links:
-- title: Writing
-  url: /
-- title: About
-  url: /about
-- title: Search
-  url: /search
-- title: Rss
-  url: /atom.xml
+  - title: Products
+    url: /
+  - title: Startups
+    url: /about
+  - title: Search
+    url: /search
+  - title: Lessions
+    url: /lessons
