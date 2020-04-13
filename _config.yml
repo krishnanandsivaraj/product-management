@@ -14,7 +14,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: "/product-management/"
+baseurl: "/product-management"
 
 highlighter: none
 
